@@ -26,6 +26,10 @@ MultiTv snippet: https://github.com/Jako/multiTV
 
 ### Optional
 
-Add or remove languages from **langlist** chunk
-complete list at:
+Add or remove languages from **langlist** chunk:
+
+### default chunk
+```Select Language== ||Armenian==hy||Dutch==nl||English==en||Esperanto==eo||French==fr||Georgian==ka||German==de||Greek==el||Italian==it||Japanese==ja||Persian==fa||Portuguese==pt||Russian==ru||Spanish==es||Swedish==sv||Turkish==tr```
+
+Complete list at:
 http://en.wikipedia.org/wiki/ISO_3166-2#Current_codes
