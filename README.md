@@ -3,6 +3,10 @@ Hreflang-multitv
 
 hreflang Tags Generator Multitv for Modx Evolution
 
+Add one or multiple hreflang links for multilingual and international websites
+
+See: https://support.google.com/webmasters/answer/189077?hl=en
+
 ![hreflang multitv](https://raw.githubusercontent.com/Nicola1971/Hreflang-multitv/master/hreflangmultitv.jpg)
 
 # Requires:
